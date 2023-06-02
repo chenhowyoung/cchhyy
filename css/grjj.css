@@ -44,8 +44,9 @@ img{
     float: left;
     /* 从左开始悬浮，便于调节参数使图片和表格在同一行 */
     margin-top: 30px;
-    margin-left: 79.5px;
-    margin-right: 79.5px;
+    margin-left: 79px;
+    margin-right: 79px;
+    margin-bottom: 40px;
     
 }
 
